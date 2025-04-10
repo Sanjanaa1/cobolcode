@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. AddThreeNo.
+       PROGRAM-ID. AddThreeNumber.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
